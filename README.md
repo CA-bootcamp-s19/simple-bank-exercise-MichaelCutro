@@ -14,4 +14,4 @@ If your tests do not pass, modify the contract, recompile, redeploy and retest. 
 Check out the testing files to see how tests are implemented in JavaScript. We will go over the details of implementing tests later in the course.
 
 
-#### TRX is a sh1tcoin
+#### Hello World
